@@ -4,3 +4,5 @@ Este site é apenas um modelo inicial do jornal estudantil do IFSP São João da
 Estou ciente de que melhorias são necessárias em várias áreas, como design, usabilidade e integração com sistemas mais avançados, como um backend completo para envio de sugestões e armazenamento de dados. Este é o primeiro passo, e a partir dele, espero que o jornal possa evoluir para algo cada vez mais profissional, interativo e informativo.
 
 Convido você a contribuir com sugestões e críticas construtivas, para que possamos crescer juntos e construir um jornal que atenda cada vez melhor à comunidade acadêmica.
+
+(Seguindo a norma, a primeira página é o Arquivo index.html)
